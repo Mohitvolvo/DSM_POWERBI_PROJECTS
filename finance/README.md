@@ -1,5 +1,5 @@
 # Finance Dashboard Project
-![Finance Dashboard](Finance_dashboard.png)
+![Finance Dashboard](finance_dashboard.png)
 
 ## Objective
 The objective of this project is to develop an interactive finance dashboard using Python and Power BI to visualize key performance indicators (KPIs) and metrics that are essential for financial analysis and decision-making. The dashboard provides insights into assets under management, net profit margin, customer churn, and cost per acquisition. It also includes visualizations for investment types, monthly inflow vs. outflow, customer age groups, and customer feedback.
