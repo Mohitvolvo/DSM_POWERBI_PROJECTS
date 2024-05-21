@@ -1,4 +1,3 @@
-
 ### Project Description for Retail Analytics Dashboard
 ![Retail Dashboard](retail_dashboard.png)
 #### Project Title: Retail Analytics Dashboard
