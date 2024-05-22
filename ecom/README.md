@@ -1,5 +1,5 @@
 # E-Commerce Customer Analytics Dashboard
-![E-Commerce Dashboard](ecom.png)
+![E-Commerce Dashboard](ecom1.png)
 
 ## Project Description
 
