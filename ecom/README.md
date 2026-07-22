@@ -43,7 +43,7 @@ In the competitive e-commerce landscape, understanding customer behavior and sal
 
 - **Python**: For data generation.
 - **PowerBI**: For charts and calculation of metrics.
-- **Faker**: For generating synthetic data.
+  
 
 ### Conclusion
 
